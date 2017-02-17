@@ -67,5 +67,8 @@
 
    -ssh连接工具
    
+17. Vysor
+   -连接android 手机的工具，实现可以在Mac上操作手机
+   
 To be cotinued.
    
