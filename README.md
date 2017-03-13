@@ -68,11 +68,14 @@
    -ssh连接工具
    
 17. Vysor
+
    -连接android 手机的工具，实现可以在Mac上操作手机
   
 18. ImageOptim
+
    -压缩替换图片，拖入文件夹或图片即可，如果还要使用原来的记得备份
 
    
+   
 👄To be cotinued.
    
